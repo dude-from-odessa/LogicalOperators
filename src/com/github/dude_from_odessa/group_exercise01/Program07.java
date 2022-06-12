@@ -19,6 +19,7 @@ public class Program07 {
 			num = scanner.nextInt();
 
 		} while (num <= 1);
+		
 
 		for (x = 2; x < num; x++) {
 
